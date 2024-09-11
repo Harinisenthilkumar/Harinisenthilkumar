@@ -15,76 +15,88 @@
   </a>
 </p>
 
+---
+
+### 🔭 About Me:
 - 🔭 I’m currently working on **MERN Stack Projects**
-
 - 🌱 Expanding my knowledge in **Backend Development**
-
 - 💬 Ask me about **Full Stack Development, Python, Django, and JavaScript**
-
 - 👨‍💻 Check out my portfolio and projects on [LinkedIn](https://www.linkedin.com/in/harini-senthilkumar-1953631bb)
-
 - 📫 Reach me at: **[senthilkumar2002@gmail.com](mailto:senthilkumar2002@gmail.com)**
-
 - 📄 See my resume: [My Resume](https://www.canva.com/design/DAGL1ezLR0Y/uR3HLxP0CmjfG7ag5uSYpg/edit?utm_content=DAGL1ezLR0Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+### 🌐 Connect with Me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/harini-senthilkumar-1953631bb" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/harini-senthilkumar-1953631bb" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40"/>
   </a>
   <a href="mailto:senthilkumar2002@gmail.com">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gmail/gmail-original.svg" alt="Gmail" height="30" width="40" />
+    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail" height="40" width="40"/>
   </a>
   <a href="https://www.instagram.com/harini._.29" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" height="40" width="40"/>
   </a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+### 💻 Languages and Tools:
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   </a>
 </p>
 
 ---
 
-<h3 align="left">GitHub Stats & Activity:</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harinisenthilkumar&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+### 📊 GitHub Stats & Activity:
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harinisenthilkumar&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=harinisenthilkumar&show_icons=true&locale=en" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harinisenthilkumar&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harinisenthilkumar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harinisenthilkumar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="GitHub Streak" />
 </p>
 
 ---
 
-<h3 align="left">🏆 Extra Features:</h3>
+### 🏆 Extra Features:
 - 🎨 **Colorful Contributions**: [GitHub Skyline](https://skyline.github.com/harinisenthilkumar/2023)
 - 🔥 **Active Repositories**: [See My Projects](https://github.com/harinisenthilkumar?tab=repositories)
+
+---
+
+### 🎨 Animations:
+To make your profile more dynamic, you can add simple animations like hover effects and flashing icons using CSS if your profile supports it. For instance:
+
+```html
+<style>
+  img {
+    transition: transform 0.3s ease-in-out;
+  }
+  img:hover {
+    transform: scale(1.1);
+  }
+</style>
+
 
 
