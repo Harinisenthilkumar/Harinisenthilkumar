@@ -16,16 +16,13 @@
 </p>
 
 - 🔭 I’m currently working on **MERN Stack Projects**
-
 - 🌱 I’m expanding my knowledge in **Backend Development**
-
 - 💬 Ask me about **Full Stack Development, Python, Django, and JavaScript**
-
 - 👨‍💻 Check out my portfolio and projects on [LinkedIn](https://www.linkedin.com/in/harini-senthilkumar-1953631bb)
+- 📫 Reach me at: [Instagram](https://www.instagram.com/)
+- 📄 View my resume: [My Resume](https://www.canva.com/design/DAGL1ezLR0Y/uR3HLxP0CmjfG7ag5uSYpg/edit?utm_content=DAGL1ezLR0Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-- 📫 Reach me at: **senthilkumarharini2002@gmail.com**
-
-- 📄 See my resume: [My Resume](https://www.canva.com/design/DAGL1ezLR0Y/uR3HLxP0CmjfG7ag5uSYpg/edit?utm_content=DAGL1ezLR0Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -59,7 +56,9 @@
   </a>
 </p>
 
-### GitHub Stats & Activity:
+---
+
+### 📊 GitHub Stats & Activity:
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harinisenthilkumar&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
@@ -77,4 +76,9 @@
 ### 🏆 Extra Features:
 - 🎨 **Colorful Contributions**: [GitHub Skyline](https://skyline.github.com/harinisenthilkumar/2023)
 - 🔥 **Active Repositories**: [See My Projects](https://github.com/harinisenthilkumar?tab=repositories)
+
+---
+
+### ✨ Fun Fact:
+- I believe coding is an art of building something amazing from scratch with passion!
 
