@@ -1,40 +1,33 @@
 ![logo](https://github.com/Harinisenthilkumar/Harinisenthilkumar/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Harini Senthilkumar</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">A passionate Full Stack Developer 🚀</h3>
 
 <img align="right" alt="Coding Girl" width="400" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=harinisenthilkumar&label=Profile%20views&color=0e75b6&style=flat" alt="harinisenthilkumar" />
-  <img src="https://img.shields.io/github/followers/harinisenthilkumar?label=Followers" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=harinisenthilkumar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/harinisenthilkumar?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=harinisenthilkumar&theme=onestar&column=4&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=harinisenthilkumar&theme=onedark&column=4&no-bg=true&no-frame=true" alt="GitHub Trophies" />
   </a>
 </p>
-
-- 🔭 I’m currently working on **MERN Stack Projects**
-- 🌱 I’m expanding my knowledge in **Backend Development**
-- 💬 Ask me about **Full Stack Development, Python, Django, and JavaScript**
-- 👨‍💻 Check out my portfolio and projects on [LinkedIn](https://www.linkedin.com/in/harini-senthilkumar-1953631bb)
-- 📫 Reach me at: [Instagram](https://www.instagram.com/)
-- 📄 View my resume: [My Resume](https://www.canva.com/design/DAGL1ezLR0Y/uR3HLxP0CmjfG7ag5uSYpg/edit?utm_content=DAGL1ezLR0Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/harini-senthilkumar-1953631bb" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="mailto:senthilkumarharini2002@gmail.com">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gmail/gmail-original.svg" alt="Gmail" height="30" width="40" />
-  </a>
-</p>
+### 👩‍💻 About Me:
+- 🔭 I’m currently working on **MERN Stack Projects**
+- 🌱 I’m expanding my knowledge in **Backend Development**
+- 💬 Ask me about **Full Stack Development, Python, Django, and JavaScript**
+- 👨‍💻 Check out my portfolio on [LinkedIn](https://www.linkedin.com/in/harini-senthilkumar-1953631bb)
+- 📫 Reach me at: [Instagram](https://www.instagram.com/) or **senthilkumarharini2002@gmail.com**
+- 📄 See my resume: [Resume Link](https://www.canva.com/design/DAGL1ezLR0Y/uR3HLxP0CmjfG7ag5uSYpg/edit?utm_content=DAGL1ezLR0Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+### 🛠️ Languages and Tools:
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -75,10 +68,17 @@
 
 ### 🏆 Extra Features:
 - 🎨 **Colorful Contributions**: [GitHub Skyline](https://skyline.github.com/harinisenthilkumar/2023)
-- 🔥 **Active Repositories**: [See My Projects](https://github.com/harinisenthilkumar?tab=repositories)
+- 🔥 **Explore My Repositories**: [My Projects](https://github.com/harinisenthilkumar?tab=repositories)
 
 ---
 
-### ✨ Fun Fact:
-- I believe coding is an art of building something amazing from scratch with passion!
+### 🎉 Fun & Animated Section:
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Fun" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Developing Projects" width="400" />
+</p>
+
 
