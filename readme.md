@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm harinisenthilkumar</h1>
 <h3 align="center">A passionate developer</h3>
-<img align="right"alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/c27a12e7-6804-4edb-a05e-bbfe491239da)"
+<img align="right"alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/9abd2011-174c-4362-8a4e-f11f4859c8f5)
+"
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harinisenthilkumar&label=Profile%20views&color=0e75b6&style=flat" alt="harinisenthilkumar" /> </p>
