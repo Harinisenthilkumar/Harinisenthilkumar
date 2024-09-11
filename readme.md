@@ -78,8 +78,8 @@
 ### 🏆 Extra Features:
 - 🎨 **Active Repositories**: [See My Projects](https://github.com/harinisenthilkumar?tab=repositories)
 
-<h3 align="center">Thank You for Visiting!</h3>
 
 <img align="center" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt="Girl Coding" width="500"/>
-<img align="center" src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" alt="Girl Animation" width="500"/>
+<h3 align="center">Thank You for Visiting!</h3>
+
 
