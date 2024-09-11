@@ -5,7 +5,7 @@
 <img align="right" alt="Coding Girl" width="400" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=harinisenthilkumar&label=Profile%20views&color=0e75b6&style=flat" alt="harinisenthilkumar" />
+  <img src="https://komarev.com/ghpvc/?username=harinisenthilkumar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/harinisenthilkumar?label=Followers" alt="GitHub Followers" />
 </p>
 
@@ -27,13 +27,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/harini-senthilkumar-1953631bb" target="_blank">
+  <a href="https://www.linkedin.com/in/harini-senthilkumar-1953631bb" target="_blank" title="LinkedIn Profile">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="mailto:senthilkumar2002@gmail.com">
+  <a href="mailto:senthilkumar2002@gmail.com" title="Email Me">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com/harini._.29" target="_blank">
+  <a href="https://www.instagram.com/harini._.29" target="_blank" title="Instagram Profile">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" alt="Instagram" height="30" width="40" />
   </a>
 </p>
@@ -79,7 +79,9 @@
 - 🎨 **Active Repositories**: [See My Projects](https://github.com/harinisenthilkumar?tab=repositories)
 
 <h3 align="center">Thank You for Visiting!</h3>
-<img align="center" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt="Girl Coding" width="500"/>
+
+<img align="center" src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" alt="Girl Coding Animation" width="500"/>
+<img align="center" src="https://media.giphy.com/media/3o7bubskpJfj5yz3Fq/giphy.gif" alt="Girl Animation" width="500"/>
 
 
 
