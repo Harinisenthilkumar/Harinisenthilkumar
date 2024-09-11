@@ -27,13 +27,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/harini-senthilkumar-1953631bb" target="_blank" title="LinkedIn Profile">
+  <a href="https://www.linkedin.com/in/harini-senthilkumar-1953631bb" target="_blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="mailto:senthilkumar2002@gmail.com" title="Email Me">
+  <a href="mailto:senthilkumar2002@gmail.com">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com/harini._.29" target="_blank" title="Instagram Profile">
+  <a href="https://www.instagram.com/harini._.29" target="_blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" alt="Instagram" height="30" width="40" />
   </a>
 </p>
@@ -80,8 +80,6 @@
 
 <h3 align="center">Thank You for Visiting!</h3>
 
-<img align="center" src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" alt="Girl Coding Animation" width="500"/>
-<img align="center" src="https://media.giphy.com/media/3o7bubskpJfj5yz3Fq/giphy.gif" alt="Girl Animation" width="500"/>
-
-
+<img align="center" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt="Girl Coding" width="500"/>
+<img align="center" src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" alt="Girl Animation" width="500"/>
 
