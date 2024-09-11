@@ -1,4 +1,4 @@
-!l[logo](https://github.com/Harinisenthilkumar/Harinisenthilkumar/blob/main/banner.png)
+![logo](https://github.com/Harinisenthilkumar/Harinisenthilkumar/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Harini Senthilkumar</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
