@@ -1,10 +1,10 @@
+![logo](https://github.com/Harinisenthilkumar/Harinisenthilkumar/blob/main/banner.png)
+
 <h1 align="center">Hi 👋, I'm Harini Senthilkumar</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-<!-- Animated Banner -->
-<img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" alt="Harini - Web Developer Banner" width="100%" />
+<img align="right" alt="Coding Girl" width="300" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 
-<!-- Profile Stats -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=harinisenthilkumar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/harinisenthilkumar?label=Followers" alt="GitHub Followers" />
@@ -17,10 +17,14 @@
 </p>
 
 - 🔭 I’m currently working on **MERN Stack Projects**
+
 - 🌱 I’m expanding my knowledge in **Backend Development**
+
 - 💬 Ask me about **Full Stack Development, Python, Django, and JavaScript**
+
 - 📫 Reach me at: **senthilkumar2002@gmail.com**
-- 📄 [See my resume](https://www.canva.com/design/DAGL1ezLR0Y/uR3HLxP0CmjfG7ag5uSYpg/edit?utm_content=DAGL1ezLR0Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+- 📄 See my resume: [My Resume](https://www.canva.com/design/DAGL1ezLR0Y/uR3HLxP0CmjfG7ag5uSYpg/edit?utm_content=DAGL1ezLR0Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -49,12 +53,6 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
-  </a>
 </p>
 
 ### GitHub Stats & Activity:
@@ -75,8 +73,5 @@
 ### 🏆 Extra Features:
 - 🎨 **Active Repositories**: [See My Projects](https://github.com/harinisenthilkumar?tab=repositories)
 
-<!-- Animated Girl GIF -->
-<img align="center" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt="Girl Coding" width="500"/>
-
+<img align="center" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt="Girl Coding" width="400"/>
 <h3 align="center">Thank You for Visiting!</h3>
-
