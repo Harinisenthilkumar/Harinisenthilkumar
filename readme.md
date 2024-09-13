@@ -67,7 +67,7 @@
   </a>
 </p>
 
-<h3 align="left">GitHub Status & Activity:</h3>
+<h3 align="left">GitHub Stats & Activity:</h3>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harinisenthilkumar&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
@@ -87,4 +87,13 @@
 
 <img align="center" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt="Girl Coding" width="400"/>
 
+---
+
+### 🌟 Fun Facts About Me:
+
+- 😄 **Fun Fact**: I love learning new programming languages and challenging myself with complex algorithms!
+- 🎮 **Hobbies**: When I'm not coding, you'll probably find me playing video games or solving puzzles.
+- ✈️ **Travel Goals**: I hope to visit tech hubs around the world like Switzerland, Paris, and Maldives!
+
 <h3 align="center">Thank You for Visiting!</h3>
+
