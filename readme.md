@@ -8,13 +8,7 @@
 
 - **Grocery Website**:  
   <a href="https://harinisenthilkumar.github.io/Grocery-Website/">
-    <img align="left" alt="Grocery Website Frontend Demo" width="30px" src="https://cdn-icons-png.flaticon.com/512/1598/1598100.png" />
+    <img align="left" alt="Grocery Website Frontend Demo" width="30px" src="https://cdn-icons-png.flaticon.com/512/3081/3081911.png" />
   </a>  
   A clean and modern grocery shopping website built with HTML, CSS, and JavaScript.
-
-- **Grocessory Website**:  
-  <a href="https://harinisenthilkumar.github.io/Grocessory/">
-    <img align="left" alt="Grocessory Frontend Demo" width="30px" src="https://cdn-icons-png.flaticon.com/512/1598/1598100.png" />
-  </a>  
-  A modern and user-friendly grocery shopping website, showcasing interactive features and responsive design.
 
