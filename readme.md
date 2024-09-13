@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Harini Senthilkumar</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-<img align="right" alt="Coding Girl" width="300" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
+<img align="right" alt="Coding Girl" width="400" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=harinisenthilkumar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -108,13 +108,13 @@
 ### 🌱 Tech Goals:
 - 📚 **Learning Focus**: Improving on algorithms, data structures, and cloud computing.
 - 💼 **Future Aspirations**: Looking to contribute to open-source projects and enhance my backend development skills.
-- <img align="center" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt="Girl Coding" width="400"/>
 
 
 
 ---
+- <img align="center" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt="Girl Coding" width="400"/>
 
-<img align="center" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt="Girl Coding" width="400" height="400" />
+
 
 
 <h3 align="center">Thank You for Visiting!</h3>
