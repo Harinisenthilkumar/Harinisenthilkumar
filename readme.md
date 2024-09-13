@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Harini Senthilkumar</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-<img align="right" alt="Coding Girl" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding Girl" width="300" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=harinisenthilkumar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -67,7 +67,7 @@
   </a>
 </p>
 
-<h3 align="left">GitHub Status & Activity:</h3>
+<h3 align="left">GitHub Stats & Activity:</h3>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harinisenthilkumar&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
@@ -97,15 +97,13 @@
 
 ---
 
-### ✨ Something More:
+### 🌱 Tech Goals:
+- 📚 **Learning Focus**: Improving on algorithms, data structures, and cloud computing.
+- 💼 **Future Aspirations**: Looking to contribute to open-source projects and enhance my backend development skills.
 
-- 🔥 **Favorite Stack**: I’m most comfortable working with MERN stack and love building web applications from scratch!
-- 🚀 **Tech Passion**: Passionate about contributing to open-source projects and learning new technologies!
-- 🎧 **Music**: A fan of coding while listening to lofi beats or instrumental soundtracks.
+<img align="center" src="https://media.giphy.com/media/f5XgmZkn7cWwl5iD2j/giphy.gif" alt="Boy Coding" width="400"/>
 
 ---
-
-<img align="center" src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" alt="Boy Coding" width="300"/>
 
 <h3 align="center">Thank You for Visiting!</h3>
 
