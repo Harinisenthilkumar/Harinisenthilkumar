@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Harini Senthilkumar</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-<img align="right" alt="Coding Girl" width="500" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
+<img align="right" alt="Coding Girl" width="300" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=harinisenthilkumar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -26,10 +26,12 @@
 
 - 📄 See my resume: [My Resume](https://www.canva.com/design/DAGL1ezLR0Y/uR3HLxP0CmjfG7ag5uSYpg/edit?utm_content=DAGL1ezLR0Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
+- 🌐 Check out my portfolio: [My Portfolio](https://66ae3bdaa22e2a9586ea3932--jade-lollipop-e61d63.netlify.app/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/harini-senthilkumar-1953631bb" target="_blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="50" width="50" />
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="mailto:senthilkumar2002@gmail.com">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" height="30" width="40" />
@@ -83,8 +85,10 @@
 ---
 
 <h3 align="center">🏆 Extra Features:</h3>
+
 - 🎨 **Active Repositories**: [See My Projects](https://github.com/harinisenthilkumar?tab=repositories)
 
+<img align="center" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt="Girl Coding" width="400"/>
 
 ---
 
@@ -96,26 +100,13 @@
 
 ---
 
-### ✨ Something More:
-
-- 🔥 **Favorite Stack**: I’m most comfortable working with MERN stack and love building web applications from scratch!
-- 🚀 **Tech Passion**: Passionate about contributing to open-source projects and learning new technologies!
-- 🎧 **Music**: A fan of coding while listening to lofi beats or instrumental soundtracks.
-
----
-
-
 ### 🌱 Tech Goals:
+
 - 📚 **Learning Focus**: Improving on algorithms, data structures, and cloud computing.
 - 💼 **Future Aspirations**: Looking to contribute to open-source projects and enhance my backend development skills.
 
-
+<img align="center" src="https://media.giphy.com/media/f5XgmZkn7cWwl5iD2j/giphy.gif" alt="Boy Coding" width="400"/>
 
 ---
-- <img align="center" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt="Girl Coding" width="400"/>
-
-
-
 
 <h3 align="center">Thank You for Visiting!</h3>
-
