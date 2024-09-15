@@ -106,7 +106,7 @@
   <a href="https://66ae3bdaa22e2a9586ea3932--jade-lollipop-e61d63.netlify.app/">
     <img align="left" alt="Portfolio Website Frontend Demo" width="30px" src="https://cdn-icons-png.flaticon.com/512/6114/6114877.png" />
   </a>  
-  My personal portfolio showcasing a collection of my projects and skills.
+  My personal portfolio showcasing a collection of my projects and skills 
 
 
 ---
@@ -129,4 +129,4 @@
 <img align="center" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt="Girl Coding" width="400"/>
 
 
-<h3 align="center">Thank You  !!! </h3>
+<h3 align="center">Thank You !!! </h3>
