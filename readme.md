@@ -12,7 +12,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=0C9EDD&center=true&vCenter=true&width=435&lines=Web+Developer+%7C+Fullstack+Developer+%7C+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=0C9EDD&center=true&vCenter=true&width=435&lines=Web+Development" alt="Typing SVG" />
 </p>
 
 ---
@@ -65,7 +65,6 @@
 ### GitHub Stats 📊
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Harinisenthilkumar&show_icons=true&theme=radical" alt="Harini's GitHub Stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harinisenthilkumar&theme=radical" alt="Harini's GitHub Streak" width="400"/>
 </p>
 
 ---
