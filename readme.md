@@ -77,12 +77,10 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=harinisenthilkumar&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
-<h3 align="center">GitHub Streak Stats:</h3>
-<p align="center">
-  ![Custom GitHub Streak Stats Banner](https://yourdomain.com/path-to-your-custom-banner.png)
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harinisenthilkumar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="GitHub Streak" />
 </p>
-
-
 
 ---
 
@@ -132,4 +130,3 @@
 
 
 <h3 align="center">Thank You !!! </h3>
-
