@@ -71,9 +71,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=harinisenthilkumar&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harinisenthilkumar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)
-</p>
+### GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harinisenthilkumar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)
+
 
 ---
 
