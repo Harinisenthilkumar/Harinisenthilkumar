@@ -69,7 +69,7 @@
   </a>
 </p>
 
-<h3 align="left">GitHub Status & Activity:</h3>
+<h3 align="left">GitHub Stats & Activity:</h3>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harinisenthilkumar&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
