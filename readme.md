@@ -77,11 +77,11 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=harinisenthilkumar&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
-
-  <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harinisenthilkumar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="GitHub Streak Stats" />
-
+<h3 align="left">GitHub Streak Stats:</h3>
+<p align="left">
+  ![GitHub Streak Stats](https://camo.githubusercontent.com/c886b43763ab2153d292afb3a63697642d4477d4051e385acff4ac834a28d9bd/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d486172696e6973656e7468696c6b756d6172267468656d653d626c61636b2d69636526686964655f626f726465723d74727565267374726f6b653d30303030266261636b67726f756e643d3036304130434430)
 </p>
+
 
 ---
 
