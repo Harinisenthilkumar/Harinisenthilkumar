@@ -1,4 +1,3 @@
-
 <!-- Meta Tags for SEO -->
 <meta name="title" content="Harini Senthilkumar">
 <meta name="description" content="Web Developer specializing in Full Stack Development. Passionate about creating innovative web solutions. Always learning and exploring new technologies.">
@@ -23,6 +22,43 @@
 - 👩‍💻 Passionate about **Web Development** and creating intuitive user interfaces.
 - 🌱 Currently learning **MERN Stack** and focusing on **React**, **Node.js**, **MongoDB**, and **Express**.
 - 👩‍💼 Open to opportunities in **Full Stack Development** and always looking to enhance my skills.
+
+---
+
+### 🌟 Project Demos:
+
+- **Crispy Crust Pizza Website**:  
+  <a href="https://harinisenthilkumar.github.io/Crispy-Crust/">
+    <img align="left" alt="Crispy Crust Frontend Demo" width="30px" src="https://cdn-icons-png.flaticon.com/512/2738/2738337.png" />
+  </a>  
+  A sleek, responsive website designed for a pizza shop, showcasing my skills in HTML, CSS, and JavaScript.
+
+- **Grocery Website**:  
+  <a href="https://harinisenthilkumar.github.io/Grocery-Website/">
+    <img align="left" alt="Grocery Website Frontend Demo" width="30px" src="https://cdn-icons-png.flaticon.com/512/2621/2621553.png" />
+  </a>  
+  A clean and modern grocery shopping website built with HTML, CSS, and JavaScript.
+
+- **Portfolio Website**:  
+  <a href="https://66ae3bdaa22e2a9586ea3932--jade-lollipop-e61d63.netlify.app/">
+    <img align="left" alt="Portfolio Website Frontend Demo" width="30px" src="https://cdn-icons-png.flaticon.com/512/6114/6114877.png" />
+  </a>  
+  My personal portfolio showcasing a collection of my projects and skills.
+
+---
+
+### Fun Facts About Me:
+
+- 😄 **Fun Fact**: I love learning new programming languages and challenging myself with complex algorithms!
+- 🎮 **Hobbies**: When I'm not coding, you'll probably find me playing video games or solving puzzles.
+- ✈️ **Travel Goals**: I hope to visit tech hubs around the world like Switzerland, Paris, and Maldives!
+
+---
+
+### 🌱 Tech Goals:
+
+- 📚 **Learning Focus**: Improving on algorithms, data structures, and cloud computing.
+- 💼 **Future Aspirations**: Looking to contribute to open-source projects and enhance my backend development skills.
 
 ---
 
@@ -76,7 +112,8 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xUA7b36zFrpao8ft0w/giphy.gif" width="300" alt="Coding GIF"/>
+  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt="Girl Coding" width="400"/>
 </p>
 
-<p align="center">💻 Made with ❤️ by Harini Senthilkumar</p>
+<h3 align="center">Thank You !!!</h3>
+
