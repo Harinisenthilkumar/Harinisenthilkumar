@@ -73,7 +73,7 @@
 
 ### GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harinisenthilkumar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harinisenthilkumar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)
 
 
 ---
