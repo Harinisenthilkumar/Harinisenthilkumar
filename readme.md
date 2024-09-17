@@ -1,5 +1,3 @@
-![logo](https://github.com/Harinisenthilkumar/Harinisenthilkumar/blob/main/banner.png)
-
 <h1 align="center">Hi 👋, I'm Harini Senthilkumar</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
@@ -17,15 +15,10 @@
 </p>
 
 - 🔭 I’m currently working on **MERN Stack Projects**
-
 - 🌱 I’m expanding my knowledge in **Backend Development**
-
 - 💬 Ask me about **Full Stack Development, Python, Django, and JavaScript**
-
 - 📫 Reach me at: **senthilkumar2002@gmail.com**
-
 - 📄 See my resume: [My Resume](https://www.canva.com/design/DAGL1ezLR0Y/uR3HLxP0CmjfG7ag5uSYpg/edit?utm_content=DAGL1ezLR0Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
 - 🌐 Check out my portfolio: [My Portfolio](https://66ae3bdaa22e2a9586ea3932--jade-lollipop-e61d63.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
@@ -78,8 +71,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=harinisenthilkumar&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harinisenthilkumar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="GitHub Streak" />
+<p align="center">
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harinisenthilkumar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)
 </p>
 
 ---
@@ -106,8 +99,7 @@
   <a href="https://66ae3bdaa22e2a9586ea3932--jade-lollipop-e61d63.netlify.app/">
     <img align="left" alt="Portfolio Website Frontend Demo" width="30px" src="https://cdn-icons-png.flaticon.com/512/6114/6114877.png" />
   </a>  
-  My personal portfolio showcasing a collection of my projects and skills 
-
+  My personal portfolio showcasing a collection of my projects and skills
 
 ---
 
@@ -124,9 +116,9 @@
 - 📚 **Learning Focus**: Improving on algorithms, data structures, and cloud computing.
 - 💼 **Future Aspirations**: Looking to contribute to open-source projects and enhance my backend development skills.
 
-
 ---
+
 <img align="center" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt="Girl Coding" width="400"/>
 
+<h3 align="center">Thank You !!!</h3>
 
-<h3 align="center">Thank You !!! </h3>
