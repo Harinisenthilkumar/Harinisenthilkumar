@@ -108,7 +108,7 @@
 
 - 😄 **Fun Fact**: I love learning new programming languages and challenging myself with complex algorithms!
 - 🎮 **Hobbies**: When I'm not coding, you'll probably find me playing video games or solving puzzles.
-- ✈️ **Travel Goals**: I hope to visit tech hubs around the world like Switzerland, Paris, and Maldives!
+- ✈️ **Travel Goals**: I hope to visit tech hubs around the world like Switzerland, Paris, and Maldives !!!
 
 ---
 
