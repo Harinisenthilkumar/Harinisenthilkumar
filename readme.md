@@ -121,5 +121,5 @@
 
 <img align="center" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt="Girl Coding" width="400"/>
 
-<h3 align="center">Thank You All   !!!</h3>
+<h3 align="center">Thank You Guys  !!!</h3>
 
