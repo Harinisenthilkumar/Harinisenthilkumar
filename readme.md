@@ -14,7 +14,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **MERN Stack Projects**
+- 🔭 I’m currently working on **FullStack Projects**
 - 🌱 I’m expanding my knowledge in **Backend Development**
 - 💬 Ask me about **Full Stack Development, Python, Django, and JavaScript**
 - 📫 Reach me at: **senthilkumar2002@gmail.com**
